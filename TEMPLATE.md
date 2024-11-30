@@ -8,7 +8,7 @@ I'm **Orhun**, a Rust aficionado with a strong passion for all things open sourc
 
 <br>
 
-Ever since I joined GitHub **7** years ago, I pushed **26636** commits, opened **537** issues, submitted **1325** pull requests, received **18209** stars across **123** personal projects, and contributed to **235** public repositories.
+Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 Here is a list of my **personal projects**:
 
